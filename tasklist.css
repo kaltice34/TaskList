@@ -1,0 +1,33 @@
+body {
+ display: flex;
+ justify-content: center;
+}
+
+output {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style-type: none;
+  border: 1px solid black;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: .25rem;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  float: right;
+}
+
+button {
+  margin-top: .5rem;
+}
